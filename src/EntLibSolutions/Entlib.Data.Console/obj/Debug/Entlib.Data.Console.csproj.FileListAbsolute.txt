@@ -1,0 +1,15 @@
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Entlib.Data.Console.exe.config
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Entlib.Data.Console.exe
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Entlib.Data.Console.pdb
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\obj\Debug\Entlib.Data.Console.exe
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\obj\Debug\Entlib.Data.Console.pdb
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\EntityFramework.dll
+C:\Codes\entlibdemos\entlibs\src\EntLibSolutions\Entlib.Data.Console\bin\Debug\EntityFramework.xml
